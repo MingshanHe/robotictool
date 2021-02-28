@@ -18,7 +18,7 @@ This is a tool package for robotics. You can use it to model your robot and have
 
 ### PIP
 
-``sudo pip3 install robotictools==0.0.1`
+`sudo pip3 install robotictools==0.0.1`
 
 ### Git
 
