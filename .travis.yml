@@ -6,6 +6,7 @@ python:
 matrix:
   fast_finish: true
 
-install: true
+install:
+  - pip3 install -r requirements.txt
 
 script: pytest
