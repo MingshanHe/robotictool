@@ -35,4 +35,3 @@ My Robotic Lab Website is https://roboticlabofmingshan.com
 I would like to invite you to joint us to build this package. If you have interest in this project, please feel free to contact me: hemingshan_1999@163.com
 
 Welcome for you participation!
-The version 1.0.1 comming soon~
